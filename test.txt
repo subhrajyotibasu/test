@@ -1,1 +1,1 @@
-Trying GIT.
+Trying GIT. Editing it in remote repo.
